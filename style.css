@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 .navigation_bar{
-	background-image: linear-gradient(to right,#a2cae8,#7dbae8,#4781ad);
+	background-image: linear-gradient(to right,#a2cae8,#5c9fd2,#2b70a5);
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -100,7 +100,7 @@ html{
 	margin-top: 25px;
 	font-weight: bolder;
 	font-size: 30px;
-	color: red;
+	color: rgb(0, 140, 255);
 }
 .card-text
 {
